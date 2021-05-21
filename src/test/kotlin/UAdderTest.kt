@@ -30,6 +30,7 @@ internal class UAdderTest {
 
     @Test
     fun reset() {
+	assertTrue(false) // test break jenkins push
     }
 
     @Test
